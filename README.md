@@ -1,4 +1,4 @@
-# HTML-Newsletter
+# TheDailyUplift-HTML-Newsletter
 This project was done as a collaborative peer programming effort, for our first project in the Moms Can: Code (MCC) Develop Camp program. 
 
 The goal of this project was to create a recent news email newsletter with an assigned pictured template as our goal. 
